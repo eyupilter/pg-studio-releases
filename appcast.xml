@@ -3,6 +3,19 @@
     <channel>
         <title>PG Studio</title>
         <item>
+            <title>0.6.10</title>
+            <pubDate>Sat, 04 Jul 2026 00:26:02 +0300</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>0.6.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/eyupilter/pg-studio-releases/main/PGStudio-0.6.10.zip" length="9375790" type="application/octet-stream" sparkle:edSignature="XgmCXMx5aQehmY0yeG/Cy8qzsXpVKW6jKmmBmxFTQHdDQa0MESIfvq75L0CiCdeDXIDlcsEmtL+rYez1N9ESBQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/eyupilter/pg-studio-releases/main/PG%20Studio17-16.delta" sparkle:deltaFrom="16" length="873398" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="sTKyz/TrQCPsLs2GRZcJ+xLcBCsRGtL9EqDIo3+D6h+k7fG3Qh6NLMByLr5x++nWcSSiBSKwwlo9z41+c6JVDQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/eyupilter/pg-studio-releases/main/PG%20Studio17-15.delta" sparkle:deltaFrom="15" length="1052650" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1vKk5Wxm4d0qeeN45df76MgjUXZGdX9hNq+tmb6wL+k/vbtAGGoljbs2ad69MzISZ5y7IkPXEViT+H76WAJsCw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.6.9</title>
             <pubDate>Fri, 03 Jul 2026 18:35:58 +0300</pubDate>
             <sparkle:version>16</sparkle:version>
@@ -26,19 +39,6 @@
             <sparkle:deltas>
                 <enclosure url="https://raw.githubusercontent.com/eyupilter/pg-studio-releases/main/PG%20Studio15-14.delta" sparkle:deltaFrom="14" length="827602" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/ZmBBketf25DLx6EX+yC8Yi5bSzoCGVUma6a1YJDMbpXwmVOFr0Xf9QwuqxRJoB3VCjXCki+RX2ARYwtffV0Bw=="/>
                 <enclosure url="https://raw.githubusercontent.com/eyupilter/pg-studio-releases/main/PG%20Studio15-13.delta" sparkle:deltaFrom="13" length="838390" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="sRrFDwVL8+bqihcj2qZjfv632En5HpLivcyZddguvBskKxUQgIbPJW0nwAmQOyTCcMZcz34+S3NdYL8Iw7RDCQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.6.7</title>
-            <pubDate>Thu, 02 Jul 2026 14:00:32 +0300</pubDate>
-            <sparkle:version>14</sparkle:version>
-            <sparkle:shortVersionString>0.6.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://raw.githubusercontent.com/eyupilter/pg-studio-releases/main/PGStudio-0.6.7.zip" length="9041779" type="application/octet-stream" sparkle:edSignature="msmN55nEH4bjjqRcptcPdpDaKV+orJrGE7mxwR7giNBpAICCRydxEeQHtCVJPNa0giy59FQZfrvIq4anvTBUCQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/eyupilter/pg-studio-releases/main/PG%20Studio14-13.delta" sparkle:deltaFrom="13" length="579330" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zZKOCXwqIQWk0NZDjbJljJ7AQF/X5y+0m0hEXu9egXHBHJM+7WoG9WG6+LyEOs+oU8ndHhNDuKCODu0JIN/KAw=="/>
-                <enclosure url="https://raw.githubusercontent.com/eyupilter/pg-studio-releases/main/PG%20Studio14-12.delta" sparkle:deltaFrom="12" length="657550" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="eSWvHLcD2+hfopUJh4cBXdSpVjhQCiOgmpn3OFZOOQzChD1013fUYIirIjrtm6nLaQYNxJ7ouXWRAlP+HGdOBg=="/>
             </sparkle:deltas>
         </item>
     </channel>
