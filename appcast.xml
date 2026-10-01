@@ -23,10 +23,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://raw.githubusercontent.com/eyupilter/pg-studio-releases/main/PGStudio-0.9.62.zip" length="12501846" type="application/octet-stream" sparkle:edSignature="tvI3Img/W92R4x9Oih/fzUqi8pb88qMXjkl9PUoJOdxo6m90mpnjowMTXfwmiOPTHj0DNmjZx24WQ690IuiDDQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/eyupilter/pg-studio-releases/main/PG%20Studio89-88.delta" sparkle:deltaFrom="88" length="975178" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="943248" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="KoMRG+ceBGRUH/hkhNt10LiPISA79Nr0uazojBSne5dpHgjfMEF0hsm4JDuwGxVQZGnvrskXksBuzog8HpQaDQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/eyupilter/pg-studio-releases/main/PG%20Studio89-87.delta" sparkle:deltaFrom="87" length="1429170" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="943248" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RGnJl79/7y8bMG0ilMsuhdyOvn8I0WsMEznjed0duSqwkjqd4zRL8aV1/DEC4bu0tqocRvUEi6IzJ8aQ+501Cg=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>0.9.61</title>
@@ -36,10 +32,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://raw.githubusercontent.com/eyupilter/pg-studio-releases/main/PGStudio-0.9.61.zip" length="12481604" type="application/octet-stream" sparkle:edSignature="lefjmE4o+hlGrcfSFet3mPUC2XmNShZ7shpvoPRxigPfHBbZXG9UDIjPxRe+ziCDzmB2FhlibdYzhT6irofACw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/eyupilter/pg-studio-releases/main/PG%20Studio88-87.delta" sparkle:deltaFrom="87" length="1332306" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="943248" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Rx13EilqV9wb3SBdGrbVTtz91vMscZ9oLiPUTtdF3eHFNDKY0TKTFVNqbp81eiTqNz2D0XsCWQrOIAx23nFxAQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/eyupilter/pg-studio-releases/main/PG%20Studio88-86.delta" sparkle:deltaFrom="86" length="1376846" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="943248" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2uuV3dIa8/HlFGNvcIFs74WLYEeQYRrn03+vR8dIUzFvqsvUfOX9GxJOPPSJwA5SYlp+BgzjDlYj8LJspUxyDg=="/>
-            </sparkle:deltas>
         </item>
     </channel>
 </rss>
