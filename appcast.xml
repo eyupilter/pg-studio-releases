@@ -3,6 +3,19 @@
     <channel>
         <title>PG Studio</title>
         <item>
+            <title>0.9.80</title>
+            <pubDate>Fri, 23 Oct 2026 00:42:47 +0300</pubDate>
+            <sparkle:version>107</sparkle:version>
+            <sparkle:shortVersionString>0.9.80</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/eyupilter/pg-studio-releases/main/PGStudio-0.9.80.zip" length="17318796" type="application/octet-stream" sparkle:edSignature="RfdNp5gTw4YcRxuDhnqhPKZuXpdxLoYbYU0EroamF9vP2LW2nbnUQCU8b6HMc+jni3yPw98I9EJzDU4QjptECQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/eyupilter/pg-studio-releases/main/PG%20Studio107-106.delta" sparkle:deltaFrom="106" length="2777382" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="943248" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="czBgufEnGtW7fE/7W/3tzku4WoH1zWovl4X5m8h6ZLQ6B/Mtzx44zqB1at3mBKsQvgU/2EiQGNU/Jke3iSHNDA=="/>
+                <enclosure url="https://raw.githubusercontent.com/eyupilter/pg-studio-releases/main/PG%20Studio107-105.delta" sparkle:deltaFrom="105" length="2858962" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="943248" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Gp413nQAzdNDgIVGePSK2POob1Dc4dbb6GvArx6hqrluehH2a+pDNpZLmnc3zTVLQEOa/w1yKY4Pg/jXcoHBDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.9.79</title>
             <pubDate>Thu, 22 Oct 2026 13:22:45 +0300</pubDate>
             <sparkle:version>106</sparkle:version>
@@ -10,10 +23,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://raw.githubusercontent.com/eyupilter/pg-studio-releases/main/PGStudio-0.9.79.zip" length="16459949" type="application/octet-stream" sparkle:edSignature="WGlVelzimXF2HQqmJ619sQM8PA9mKEE09sVkOjBwQzXJeWITZi6Xa+Cb/MZ4265UZE6Da2AXJjvsCuG45vEPAw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/eyupilter/pg-studio-releases/main/PG%20Studio106-105.delta" sparkle:deltaFrom="105" length="1619310" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="943248" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="sXg5wtasHgd2eQL56TXuLRe8/+sCNu7hvIo852ON1VK2gKISl+eUuJr2rTGp0qNNcoKdZBThIDjCGlcShWUqDg=="/>
-                <enclosure url="https://raw.githubusercontent.com/eyupilter/pg-studio-releases/main/PG%20Studio106-104.delta" sparkle:deltaFrom="104" length="3670646" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="943248" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="WIbFs/suftWhN5U9VGKdRgk4krP1x0GvxeMlbOlqjrfyOla9LyiIZyYiuhwUG7E5cZrzvPXEkwE6W+RP4TASCw=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>0.9.78</title>
@@ -23,15 +32,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://raw.githubusercontent.com/eyupilter/pg-studio-releases/main/PGStudio-0.9.78.zip" length="16445493" type="application/octet-stream" sparkle:edSignature="dgvEqMb4L6QD3yWXJoAdVXejSQkQObmDQLSDe0/zjnf4c8EdIgPmQ+6CgjmVHOHWB7OYRosVI2O0Qp8/DgudAA=="/>
-        </item>
-        <item>
-            <title>0.9.77</title>
-            <pubDate>Sat, 17 Oct 2026 17:11:20 +0300</pubDate>
-            <sparkle:version>104</sparkle:version>
-            <sparkle:shortVersionString>0.9.77</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://raw.githubusercontent.com/eyupilter/pg-studio-releases/main/PGStudio-0.9.77.zip" length="14663076" type="application/octet-stream" sparkle:edSignature="9XodJtVyeB1NhT6EDnv8zxsndfWarAYkwwa0KSBNXcX8L7CCek39GXADyc+XTc2v8SuookXrdGNNs8eL+ggaBg=="/>
         </item>
     </channel>
 </rss>
